@@ -2,7 +2,7 @@
 
 Software Developer @ Kaspon Techworks Private Limited
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio]([https://muthuvelan.neocities.org/])                                                 
+- 🔭 Here's my [portfolio](https://muthuvelan.neocities.org)                                                 
 - 🌱 I’m currently learning React JS
 - 💬 Ask me about Tech
 - 📫 How to reach me :
